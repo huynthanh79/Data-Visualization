@@ -1,0 +1,7 @@
+2
+1 6 15
+1 9 9
+xxxxxxxxxxxxxx
+x     +  +   x
+x     S       
+xxxxxxxxxxxxxx
